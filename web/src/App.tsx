@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const URL = "http://localhost:5298/weatherforecast";
+const URL = "http://localhost:32774/weatherforecast";
 
 interface WeatherData {
   date: string;
